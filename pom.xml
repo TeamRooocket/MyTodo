@@ -8,7 +8,7 @@
     </parent>
 
 	<artifactId>spring-boot-sample-web-jsp</artifactId>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>Spring Boot Web JSP Sample</name>
 	<description>Spring Boot Web JSP Sample</description>
 	<url>http://projects.spring.io/spring-boot/</url>
